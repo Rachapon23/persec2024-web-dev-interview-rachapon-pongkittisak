@@ -11,5 +11,5 @@ In this repo contain all answer of 7 question
   1. run code with your typescript compiler
   2. or open terminal in root dir of this project and run `npm i` if you use this method, there are 2 choices available to choose for run the code
       1. use `npm test` for run all unit test in this project
-      2. or use `ts-node <question_file>.ts` to run the code
+      2. or use `ts-node <path_to_question_file>.ts` to run the code
 - for question 5 to 7 you can clone this repo and copy sql in these file and run on web <https://www.sql-practice.com/> to see the result
